@@ -1,7 +1,6 @@
 {
   "name": "nemrevision",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -20,5 +19,7 @@
     "jsonwebtoken": "^9.0.1",
     "mongoose": "^6.10.1",
     "nodemon": "^3.0.1"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
